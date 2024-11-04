@@ -9,6 +9,13 @@ const combinations = [
   {
     gender: "female",
     ocasion: "formal",
+    tshirt: "camisa_social_tons_claros_pastel",
+    pants: "calca_jeans_tom_medio_escuro",
+    shoes: "salto_alto_preto_nude",
+  },
+  {
+    gender: "female",
+    ocasion: "formal",
     tshirt: "vestido_longo_branco_preto",
     pants: "nenhum",
     shoes: "salto_alto_preto_nude",
