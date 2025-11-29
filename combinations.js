@@ -237,6 +237,55 @@ const combinations = [
     pants: "bermuda_tecido_leve_tons_claros",
     shoes: "chinelo",
   },
+  {
+    gender: "female",
+    ocasion: "inverno",
+    tshirt: "sueter_ou_moletom_quente",
+    pants: "calca_jeans_grossa",
+    shoes: "botas_cano_curto",
+  },
+  {
+    gender: "female",
+    ocasion: "inverno",
+    tshirt: "casaco_sobretudo_tons_neutros",
+    pants: "calca_legging_termica",
+    shoes: "botas_cano_alto",
+  },
+  {
+    gender: "female",
+    ocasion: "trabalho",
+    tshirt: "blazer_com_camiseta_basica",
+    pants: "calca_jeans_escura_sem_rasgos",
+    shoes: "sapatilha_ou_mocassim",
+  },
+  {
+    gender: "male",
+    ocasion: "inverno",
+    tshirt: "moletom_com_capuz",
+    pants: "calca_jeans_grossa",
+    shoes: "tenis_cano_alto_ou_bota",
+  },
+  {
+    gender: "male",
+    ocasion: "inverno",
+    tshirt: "jaqueta_couro_ou_jeans",
+    pants: "calca_sarja_preta",
+    shoes: "coturno",
+  },
+  {
+    gender: "male",
+    ocasion: "trabalho",
+    tshirt: "camisa_polo_tons_neutros",
+    pants: "calca_sarja_bege_ou_azul",
+    shoes: "sapatenis_ou_mocassim",
+  },
+  {
+    gender: "male",
+    ocasion: "trabalho",
+    tshirt: "sueter_gola_v_sobre_camisa",
+    pants: "calca_social_slim",
+    shoes: "sapato_casual",
+  },
 ];
 
 module.exports = {
